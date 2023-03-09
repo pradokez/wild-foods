@@ -1,4 +1,4 @@
-const recipes = [
+export const recipes = [
     {
       name: "Copious Meat Skewers",
       ingredients: ["Meat", "Meat", "Meat", "Meat"],
