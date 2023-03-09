@@ -29,7 +29,7 @@ const recipes = [
     },
     {
       name: "Gourmet Meat Stew",
-      ingredients: ["Fresh Milk", "Tabantha Wheat", "..."],
+      ingredients: ["Fresh Milk", "Tabantha Wheat", "Goat Butter", "Raw Bird Thigh"],
     },
     {
       name: "Gourmet Spiced Meat Skewer",
@@ -61,7 +61,7 @@ const recipes = [
     },
     {
       name: "Meat Stew",
-      ingredients: ["Fresh Milk", "..."],
+      ingredients: ["Fresh Milk", "Raw Meat"]
     },
     { name: "Crab Stir-Fry", ingredients: ["Crab", "Goron Spice"] },
     {
